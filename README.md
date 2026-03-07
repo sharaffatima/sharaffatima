@@ -1,10 +1,10 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Fatima+Sharaf;Applied+Computer+Science+Student;Backend+%7C+Data+%7C+AI;Always+learning+and+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Fatima+Sharaf;Applied+Computer+Science+Student;Backend+%7C+AI;Always+learning+and+building" />
 </p>
 
-<h3 align="center">Backend Development • Data Analysis • AI Systems</h3>
+<h3 align="center">Backend Development • AI Systems</h3>
 
 ---
 
