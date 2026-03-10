@@ -79,8 +79,6 @@ Currently strengthening my Python ecosystem skills and gaining hands-on experien
 ## <img src="https://cdn.simpleicons.org/target" height="22"/> Focus
 
 - Clean, maintainable backend services  
-- Robust data pipelines  
-- Strong ML fundamentals for anomaly detection  
 - Better software architecture decisions  
 
 ---
