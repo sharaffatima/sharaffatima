@@ -74,6 +74,29 @@ Currently strengthening my Python ecosystem skills and gaining hands-on experien
 
 ---
 
+<!-- ================= CONTACT ================= -->
+
+## <img src="https://cdn.simpleicons.org/minutemailer" height="22" alt="Contact"/> Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fatima-sharaf-417480340/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" height="28" alt="LinkedIn"/>
+    &nbsp;LinkedIn
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:sharraffatima000@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="28" alt="Email"/>
+    &nbsp;sharraffatima000@gmail.com
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://personal-website-rosy-xi-28.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel" height="28" alt="Personal Website"/>
+    &nbsp;Personal Website
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
