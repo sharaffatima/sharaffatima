@@ -74,6 +74,24 @@ Currently strengthening my Python ecosystem skills and gaining hands-on experien
 
 ---
 
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-sharaf-417480340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+  </a>
+  
+  <a href="mailto:sharraffatima000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+  </a>
+  
+  <a href="https://personal-website-rosy-xi-28.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
