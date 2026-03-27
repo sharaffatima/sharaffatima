@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Backend Development/b>
+  <b>Backend Development</b>
 </p>
 
 ---
