@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Backend Development • Data • AI Systems</b>
+  <b>Backend Development/b>
 </p>
 
 ---
