@@ -35,6 +35,7 @@ experience with real-world data and scalable services.
   <img src="https://cdn.simpleicons.org/github" height="40"/>
   <img src="https://cdn.simpleicons.org/linux" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" height="40"/>
 </p>
 
 ---
