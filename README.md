@@ -1,18 +1,18 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Fatima+Sharaf;Backend+Developer+(Python);Building+real-world+systems;Always+learning+and+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Fatima+Sharaf;Software+Engineer+(Python);Building+real-world+systems;Always+learning+and+building" />
 </p>
 
 <p align="center">
-  <b>Backend Development</b>
+  <b>Software Engineer focused on backend development and AI-powered applications.</b>
 </p>
 
 ---
 
 ## 👤 About Me
 
-I am an Applied Computer Science student in Germany focused on building  
+I am an Applied Computer Science graduate in Germany focused on building  
 **reliable backend systems**, **data workflows**, and **AI-driven solutions**.
 
 Currently strengthening my Python ecosystem skills and gaining hands-on  
