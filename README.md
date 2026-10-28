@@ -65,7 +65,7 @@ experience with real-world data and scalable services.
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-sharaf-417480340/">
+  <a href="https://www.linkedin.com/in/-fatima-sharaf/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
   </a>
   
