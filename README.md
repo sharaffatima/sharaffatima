@@ -1,85 +1,47 @@
-<!-- ================= HERO ================= -->
+# Fatima Sharaf
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Fatima+Sharaf;Software+Engineer+(Python);Building+real-world+systems;Always+learning+and+building" />
+**Software Engineer · Python Backend Development · Applied AI**
+
+I’m an Applied Computer Science graduate with a background in IT automation and a growing focus on backend engineering and AI-powered applications.
+
+I enjoy turning ideas into practical software — from backend APIs and automation scripts to applications that make everyday work simpler.
+
+### What I work on
+
+- **Backend development** — Python, Django, REST APIs, and PostgreSQL.
+- **Automation & tooling** — scripting, system integration, and repeatable workflows.
+- **Applied AI & ML** — deep learning, time-series analysis, and explainable AI.
+- **Software engineering** — maintainable code, thoughtful design, and practical problem-solving.
+
+### Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,linux,vscode" alt="Python, Django, PostgreSQL, Git, GitHub, Linux, and VS Code" />
 </p>
 
-<p align="center">
-  <b>Software Engineer focused on backend development and AI-powered applications.</b>
+**AI / ML:** PyTorch · NumPy · pandas  
+**Tools & platforms:** PostgreSQL · WSL · Git · GitHub
+
+### Selected work
+
+- **Nerra** — A bilingual productivity workspace for tasks, notes, and reminders.
+- **ECG Anomaly Detection & Explainable AI** — Bachelor’s thesis exploring Transformer-based anomaly detection and explanations for ECG signals.
+- **Backend Applications** — Building and deploying web applications with Python-based backends and modern frontend integrations.
+
+Explore my repositories for implementation details, technical decisions, and ongoing experiments.
+
+### Currently improving
+
+- Designing maintainable backend APIs and application architecture.
+- Strengthening testing, deployment, and database practices.
+- Building practical AI features into useful software products.
+
+### Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/-fatima-sharaf/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://personal-website-rosy-xi-28.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-24292F?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sharraffatima000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 👤 About Me
-
-I am an Applied Computer Science graduate in Germany focused on building  
-**reliable backend systems**, **data workflows**, and **AI-driven solutions**.
-
-Currently strengthening my Python ecosystem skills and gaining hands-on  
-experience with real-world data and scalable services.
-
----
-
-## 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python" height="42"/>
-  <img src="https://cdn.simpleicons.org/django" height="42"/>
-  <img src="https://cdn.simpleicons.org/postgresql" height="42"/>
-  <img src="https://cdn.simpleicons.org/docker" height="42"/>
-  <img src="https://cdn.simpleicons.org/redis" height="42"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git" height="40"/>
-  <img src="https://cdn.simpleicons.org/github" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/postman" height="40"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-**Backend**
-- Django & Django REST Framework  
-- Docker-based workflows  
-- Redis & async processing  
-
----
-
-## 🎯 Focus
-
-- Clean, maintainable backend services  
-- Better software architecture decisions  
-
----
-
-## 💡 Philosophy
-
-> Build systems that are not only functional — but reliable, understandable, and useful in the real world.
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/-fatima-sharaf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-  </a>
-  
-  <a href="mailto:sharraffatima000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
-  </a>
-  
-  <a href="https://personal-website-rosy-xi-28.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+*Build thoughtfully. Learn continuously. Ship useful things.*
